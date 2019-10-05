@@ -5,7 +5,7 @@
   Technique: Greedy algorithm
     It makes a greedy choice when filling up the tank at the farthest reachable gas station
   Complexity: O(n) because there's only one for loop going through the n distances of the gas stations
-  Solved using the following youtube video as a guide to understand the algoritm: https://www.coursera.org/lecture/algorithmic-toolbox/car-fueling-8nQK8 
+  Solved using the following video as a guide to understand the algoritm: https://www.coursera.org/lecture/algorithmic-toolbox/car-fueling-8nQK8 
 */
 #include <iostream>
 using namespace std;
