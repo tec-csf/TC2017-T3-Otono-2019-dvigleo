@@ -5,6 +5,7 @@
   Technique: Greedy algorithm
     Because at each step, the one's who propose make a locally optimal choice by selecting the best partner that hasn't been proposed to at the time.
   Complexity: Because the matrix is iterated n times two times (one for the men and one for the women), it is: O(n^2)
+  Solved using the Gale-Shapley algoritm
 */
 
 #include <iostream>

@@ -5,6 +5,7 @@
   Technique: Dynamic programming
     Because of its optimal substructure and overlapping subproblems
   Complexity: The worst case scneario is when there is no common subsequence. The complexity is O(nm) where n and m are the sizes of each string. This is because it needs to go through each of the characters in the string
+  Used the following link to fully understand how the algoritm works: https://www.cs.usfca.edu/~galles/visualization/DPLCS.html
 */
 
 #include <iostream>

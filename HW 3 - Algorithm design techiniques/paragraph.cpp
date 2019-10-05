@@ -5,6 +5,7 @@
   Technique: Greedy algoritm
     Greedy choice: It tries to fit as many words as possible in the same line
   Commplexity: Because there's only one loop for the complexity is O(n)
+  Based on the following code: https://www.tutorialspoint.com/Word-Wrap-Problem
 */
 
 #include <iostream>
